@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textEdit1">Ingrese el primer texto</string>
+    <string name="textEdit2">Ingrese el segundo</string>
+    <string name="textView1">Comparemos dos textos!</string>
+    <string name="textView2"> </string>
+    <string name="button">COMPARAR</string>
+
+</resources>
